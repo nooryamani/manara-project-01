@@ -50,6 +50,3 @@ This project is part of Manara Tech's **AWS 2: Becoming a Solutions Architect** 
 - Securing APIs using IAM roles and resource policies.
 - Hosting a static frontend on S3 with integrated serverless backend.
 
----
-
-**Developed by:** Mahmoud Khedr
